@@ -1,0 +1,551 @@
+.bgimg-1{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+
+.bgimg-1 {
+    background-image:url("imagenes/Imagen-de-fondo-mesas-de-centro.png");;
+   /*  min-height: 100%; */
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-1{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-1{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-1{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-1{
+        height:768px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .bgimg-1{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .bgimg-1{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .bgimg-1{
+        height: 300px;
+    }
+}
+
+
+
+.bgimg-2{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-2 {
+    background-image:url("imagenes/imagen-de-fondo-laminados.png");;
+   /*  min-height: 100%; */
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-2{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-2{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-2{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-2{
+        height:768px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-2{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-2{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-2 {
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-2{
+        height: 300px;
+    }
+}
+
+.bgimg-3{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-3 {
+    background-image:url("imagenes/Imagen-de-fondo-curvos.png");;
+   /*  min-height: 100%; */
+  background-size:110%;
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-3{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-3{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-3{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-3{
+        height:768px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-3{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-3{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-3 {
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-3{
+        height: 300px;
+    }
+}
+
+
+
+/* Parallax vidrios curvos */
+
+
+
+.bgimg-5{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-5{
+    background-image:url("imagenes/Info-Insulado-fondo.png");;
+   /*  min-height: 100%; */
+  background-size:100%;
+}
+
+
+@media screen and (max-width: 1280px) {
+    .bgimg-5{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-5{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-5{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-5{
+        height:768px;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .bgimg-5{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-5{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-5{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-5{
+        height: 300px;
+    }
+}
+
+.bgimg-6{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-6{
+    background-image:url("imagenes/Info-Insulado-Texo.png");;
+   /*  min-height: 100%; */
+  background-size:41%;
+}
+@media screen and (max-width: 1280px) {
+    .bgimg-6{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-6{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-6{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-6{
+        height:768px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+    .bgimg-6{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-6{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-6{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-6{
+        height: 300px;
+    }
+}
+
+/* ------------------- */
+
+.bgimg-7{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-7{
+    background-image:url("imagenes/Info-Laminado-Fondo.png");;
+   /*  min-height: 100%; */
+  background-size:100%;
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-7{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-7{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-7{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-7{
+        height:768px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-7{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-7{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-7{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-7{
+        height: 300px;
+    }
+}
+
+.bgimg-8{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-8{
+    background-image:url("imagenes/Info-Laminado-Textp.png");;
+   /*  min-height: 100%; */
+  background-size:43%;
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-8{
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .bgimg-8{
+        height:893px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-8{
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .bgimg-8{
+        height:768px;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .bgimg-8{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-8{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-8{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-8{
+        height: 300px;
+    }
+}
+
+
+/* -------------------- */
+
+
+/* -----mesa de centro------- */
+.bgimg-9{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-9{
+    background-image:url("imagenes/Info-Laminado-Fondo.png");;
+   /*  min-height: 100%; */
+  background-size:100%;
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-9{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-9{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-9{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-9{
+        height: 300px;
+    }
+}
+
+.bgimg-10{
+    background-attachment: fixed;
+ /*    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: contain;
+	
+	width:100%;
+	height: 700px;
+}
+
+.bgimg-10{
+    background-image:url("imagenes/Info-Laminado-Textp.png");;
+   /*  min-height: 100%; */
+  background-size:43%;
+}
+
+@media screen and (max-width: 1200px) {
+    .bgimg-10{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .bgimg-10{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 768px) {
+   .bgimg-10{
+        height: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+   .bgimg-10{
+        height: 300px;
+    }
+}
+/* --------------------------------- */
+
+.sr-only2 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+
+#adelante { 
+    background:url(imagenes/Info-Laminado-Textp.png) left top; 
+    width:16px; 
+    height:16px;
+    display: block;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

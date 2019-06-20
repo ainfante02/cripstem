@@ -1,0 +1,757 @@
+#test {
+	width: 200px;
+	padding: 2em 0;
+	/* background: blue; */
+	background-image: url("imagenes/Vidrios-Curvos.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	    width: 50%;
+    height: 15%;
+    z-index: 1;
+	
+}
+
+.slideDown{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration:1s;	
+	-webkit-animation-duration:1s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown {
+	0% {
+		transform: translateX(-100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(-4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(-2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown {
+	0% {
+		-webkit-transform: translateX(-100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(-4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(-2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test2 {
+
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/para-construcciones.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	    width: 50%;
+    height: 10%;
+z-index:2;
+}
+
+.slideDown2{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown2 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown2 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test3 {
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/y-fachadas.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	 width: 29%;
+    height: 5%;
+	z-index:3;
+}
+
+.slideDown3{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown3 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown3 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test4 {
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/Franja-azul.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+   width: 100%;
+    height: 108%;
+/* 	z-index:0; */
+}
+
+.slideDown4{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown4 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown4 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+
+/* slider 2 AJIR */
+
+
+
+
+#test5 {
+	width: 200px;
+	padding: 2em 0;
+	/* background: blue; */
+	background-image: url("imagenes/vidrios-laminados.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	   width: 50%;
+    height: 15%;
+	z-index:1;
+	
+	
+}
+
+.slideDown5{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration:1s;	
+	-webkit-animation-duration:1s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown5 {
+	0% {
+		transform: translateX(-100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(-4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(-2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown5 {
+	0% {
+		-webkit-transform: translateX(-100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(-4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(-2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test6 {
+
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/y-blindados.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	   width: 50%;
+    height: 5%;
+z-index:2;
+}
+
+.slideDown6{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown6 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown6 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+
+
+#test8 {
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/Franja-azul.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+        width: 100%;
+    height: 108%;
+/* 	z-index:0; */
+}
+
+.slideDown8{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown8 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown8 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+/* -----AJIR----- */
+
+#test9 {
+	width: 200px;
+	padding: 2em 0;
+	/* background: blue; */
+	background-image: url("imagenes/mesa-de-centros.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	   width: 50%;
+    height: 15%;
+	z-index:1;
+	
+	
+}
+
+.slideDown9{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration:1s;	
+	-webkit-animation-duration:1s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown9 {
+	0% {
+		transform: translateX(-100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(-4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(-2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown9 {
+	0% {
+		-webkit-transform: translateX(-100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(-4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(-2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test10 {
+
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/100-por-ciento-vidrio.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+	   width: 50%;
+    height: 5%;
+z-index:2;
+}
+
+.slideDown10{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown10 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown10 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+
+
+#test11 {
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/Franja-azul.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+        width: 100%;
+    height: 108%;
+/* 	z-index:0; */
+}
+
+.slideDown11{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown11 {
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown11 {
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+#test12{
+
+	width: 200px;
+	padding: 2em 0;
+	background-image: url("imagenes/Info-Insulado-Texo.png");
+	visibility: hidden;
+	background-repeat: no-repeat;
+        width: 100%;
+    height: 108%;
+/* 	z-index:0; */
+}
+
+/* .slideDown12{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown12{
+	0% {
+		transform: translateX(100%);
+	}
+	50%{
+		transform: translateX(8%);
+	}
+	65%{
+		transform: translateX(4%);
+	}
+	80%{
+		transform: translateX(4%);
+	}
+	95%{
+		transform: translateX(2%);
+	}			
+	100% {
+		transform: translateX(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown12{
+	0% {
+		-webkit-transform: translateX(100%);
+	}
+	50%{
+		-webkit-transform: translateX(8%);
+	}
+	65%{
+		-webkit-transform: translateX(4%);
+	}
+	80%{
+		-webkit-transform: translateX(4%);
+	}
+	95%{
+		-webkit-transform: translateX(2%);
+	}			
+	100% {
+		-webkit-transform: translateX(0%);
+	}	
+}
+
+ */
